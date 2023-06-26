@@ -1,0 +1,5760 @@
+[
+    {
+      "city": "Adana",
+      "country": "Turkey",
+      "latitude": 37.0,
+      "longitude": 35.3213,
+      "current": {
+        "temperature": 32,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 50,
+        "wind_speed": 10.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 52,
+              "wind_speed": 9.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 9.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 44,
+              "wind_speed": 7.9,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 50,
+              "wind_speed": 10.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 46,
+              "wind_speed": 9.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 8.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 10.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 9.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 7.9,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 46,
+              "wind_speed": 10.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 37,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 10.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 8.6,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 8.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 11.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 38,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 10.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 35,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 9.0,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 30,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 8.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 11.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 39,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 10.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 36,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 9.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 31,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 8.8,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 11.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 40,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 11.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 37,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 9.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 32,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 28,
+              "wind_speed": 9.0,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Adıyaman",
+      "country": "Turkey",
+      "latitude": 37.7648,
+      "longitude": 38.2763,
+      "current": {
+        "temperature": 31,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 48,
+        "wind_speed": 8.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 50,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 46,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 6.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 8.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 44,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 8.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 42,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 38,
+              "wind_speed": 7.0,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 34,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 44,
+              "wind_speed": 8.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 37,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 8.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 36,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 32,
+              "wind_speed": 7.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 9.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 38,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 38,
+              "wind_speed": 8.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 35,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 7.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 30,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 30,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 9.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 39,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 8.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 36,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 32,
+              "wind_speed": 8.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 31,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 28,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 9.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 40,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 9.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 37,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 30,
+              "wind_speed": 8.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 32,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 26,
+              "wind_speed": 8.0,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Afyon",
+      "country": "Turkey",
+      "latitude": 38.7638,
+      "longitude": 30.5405,
+      "current": {
+        "temperature": 29,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 50,
+        "wind_speed": 9.2,
+        "wind_direction": "NE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 52,
+              "wind_speed": 8.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 8.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 44,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 7.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 9.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 44,
+              "wind_speed": 8.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 8.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 9.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 42,
+              "wind_speed": 8.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 38,
+              "wind_speed": 7.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 9.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 9.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 8.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 8.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 9.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 8.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 8.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 30,
+              "wind_speed": 7.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 9.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 37,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 9.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 32,
+              "wind_speed": 8.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 30,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 28,
+              "wind_speed": 8.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 9.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 38,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 9.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 35,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 30,
+              "wind_speed": 8.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 31,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 26,
+              "wind_speed": 8.0,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ağrı",
+      "country": "Turkey",
+      "latitude": 39.7192,
+      "longitude": 43.0519,
+      "current": {
+        "temperature": 22,
+        "description": "Partly Cloudy",
+        "icon": "cloud-sun",
+        "humidity": 60,
+        "wind_speed": 6.3,
+        "wind_direction": "NE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 62,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 58,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 21,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 54,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 52,
+              "wind_speed": 4.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 21,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 58,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 25,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 54,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 50,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 19,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 48,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 54,
+              "wind_speed": 6.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 26,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 50,
+              "wind_speed": 5.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 23,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 46,
+              "wind_speed": 4.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 20,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 44,
+              "wind_speed": 4.2,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 52,
+              "wind_speed": 6.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 6.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 44,
+              "wind_speed": 5.3,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 42,
+              "wind_speed": 4.7,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 50,
+              "wind_speed": 7.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 25,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 40,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 7.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 44,
+              "wind_speed": 6.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 6.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 38,
+              "wind_speed": 5.3,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 46,
+              "wind_speed": 8.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 42,
+              "wind_speed": 7.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Aksaray",
+      "country": "Turkey",
+      "latitude": 38.3687,
+      "longitude": 34.037,
+      "current": {
+        "temperature": 25,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 55,
+        "wind_speed": 6.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 58,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 52,
+              "wind_speed": 5.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 24,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 48,
+              "wind_speed": 4.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 20,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 46,
+              "wind_speed": 4.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 52,
+              "wind_speed": 6.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 25,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 44,
+              "wind_speed": 5.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 4.5,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 6.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 5.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 4.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 4.2,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 46,
+              "wind_speed": 6.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 5.3,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 4.7,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 44,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 6.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 5.2,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 42,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 6.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 6.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 5.5,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 6.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Amasya",
+      "country": "Turkey",
+      "latitude": 40.65,
+      "longitude": 35.8333,
+      "current": {
+        "temperature": 22,
+        "description": "Cloudy",
+        "icon": "cloud",
+        "humidity": 60,
+        "wind_speed": 8.0,
+        "wind_direction": "NE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 62,
+              "wind_speed": 7.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 58,
+              "wind_speed": 7.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 21,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 56,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 58,
+              "wind_speed": 6.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 19,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 58,
+              "wind_speed": 6.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 23,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 56,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 54,
+              "wind_speed": 5.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 17,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 56,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 21,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 54,
+              "wind_speed": 6.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 25,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 52,
+              "wind_speed": 5.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 50,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 19,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 52,
+              "wind_speed": 4.8,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 50,
+              "wind_speed": 5.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 48,
+              "wind_speed": 5.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 21,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 4.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 48,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 19,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 4.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 23,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 44,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 4.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 17,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 44,
+              "wind_speed": 4.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 4.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 21,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 4.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 40,
+              "wind_speed": 3.8,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 19,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 4.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 23,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 36,
+              "wind_speed": 3.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 3.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 17,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 3.2,
+              "wind_direction": "NE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ankara",
+      "country": "Turkey",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "current": {
+        "temperature": 24,
+        "description": "Partly Cloudy",
+        "icon": "cloud-sun",
+        "humidity": 55,
+        "wind_speed": 10.0,
+        "wind_direction": "SW"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 58,
+              "wind_speed": 9.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 52,
+              "wind_speed": 9.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 25,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 48,
+              "wind_speed": 8.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 45,
+              "wind_speed": 8.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 8.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 8.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 7.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 7.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 7.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 7.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 6.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 6.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 32,
+              "wind_speed": 6.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 28,
+              "wind_speed": 6.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 5.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 5.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 22,
+              "wind_speed": 5.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 18,
+              "wind_speed": 5.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 15,
+              "wind_speed": 4.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 12,
+              "wind_speed": 4.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 12,
+              "wind_speed": 4.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 10,
+              "wind_speed": 4.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 8,
+              "wind_speed": 3.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 6,
+              "wind_speed": 3.0,
+              "wind_direction": "SW"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 6,
+              "wind_speed": 3.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 5,
+              "wind_speed": 3.0,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 4,
+              "wind_speed": 2.5,
+              "wind_direction": "SW"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 3,
+              "wind_speed": 2.0,
+              "wind_direction": "SW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Antalya",
+      "country": "Turkey",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "current": {
+        "temperature": 31,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 45,
+        "wind_speed": 12.5,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 50,
+              "wind_speed": 11.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 10.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 9.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 9.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 8.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 8.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 35,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 7.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 6.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 5.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 30,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 28,
+              "wind_speed": 5.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 28,
+              "wind_speed": 4.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 37,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 25,
+              "wind_speed": 4.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 35,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 3.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 31,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 20,
+              "wind_speed": 3.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 20,
+              "wind_speed": 3.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 38,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 18,
+              "wind_speed": 3.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 36,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 15,
+              "wind_speed": 2.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 32,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 12,
+              "wind_speed": 2.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 12,
+              "wind_speed": 2.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 39,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 10,
+              "wind_speed": 2.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 37,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 8,
+              "wind_speed": 1.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 33,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 6,
+              "wind_speed": 1.0,
+              "wind_direction": "SE"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 35,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 6,
+              "wind_speed": 1.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 40,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 5,
+              "wind_speed": 1.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 38,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 4,
+              "wind_speed": 0.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Night",
+              "temperature": 34,
+              "description": "Clear Sky",
+              "icon": "moon",
+              "humidity": 3,
+              "wind_speed": 0.0,
+              "wind_direction": "SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ardahan",
+      "country": "Turkey",
+      "latitude": 41.1109,
+      "longitude": 42.7022,
+      "current": {
+        "temperature": -2,
+        "description": "Snowy",
+        "icon": "snowflake",
+        "humidity": 85,
+        "wind_speed": 4.5,
+        "wind_direction": "N"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -3,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 88,
+              "wind_speed": 5.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -1,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 86,
+              "wind_speed": 4.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -4,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 84,
+              "wind_speed": 4.3,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -6,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 82,
+              "wind_speed": 4.0,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -7,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 80,
+              "wind_speed": 4.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -5,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 78,
+              "wind_speed": 4.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -8,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 76,
+              "wind_speed": 3.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -10,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 74,
+              "wind_speed": 3.5,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -11,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 72,
+              "wind_speed": 3.7,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -9,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 70,
+              "wind_speed": 3.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -12,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 68,
+              "wind_speed": 3.3,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -14,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 66,
+              "wind_speed": 3.0,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -15,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 64,
+              "wind_speed": 3.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -13,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 62,
+              "wind_speed": 3.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -16,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 60,
+              "wind_speed": 2.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -18,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 58,
+              "wind_speed": 2.5,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -19,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 56,
+              "wind_speed": 2.7,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -17,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 54,
+              "wind_speed": 2.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -20,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 52,
+              "wind_speed": 2.3,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -22,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 50,
+              "wind_speed": 2.0,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -23,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 48,
+              "wind_speed": 2.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -21,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 46,
+              "wind_speed": 2.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -24,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 44,
+              "wind_speed": 1.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -26,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 42,
+              "wind_speed": 1.5,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": -27,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 40,
+              "wind_speed": 1.7,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": -25,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 38,
+              "wind_speed": 1.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": -28,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 36,
+              "wind_speed": 1.3,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -30,
+              "description": "Snowy",
+              "icon": "snowflake",
+              "humidity": 34,
+              "wind_speed": 1.0,
+              "wind_direction": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Artvin",
+      "country": "Turkey",
+      "latitude": 41.1828,
+      "longitude": 41.8183,
+      "current": {
+        "temperature": 18,
+        "description": "Cloudy",
+        "icon": "cloud",
+        "humidity": 70,
+        "wind_speed": 5.5,
+        "wind_direction": "NW"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 16,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 72,
+              "wind_speed": 5.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 19,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 68,
+              "wind_speed": 5.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 17,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 65,
+              "wind_speed": 4.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 15,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 70,
+              "wind_speed": 4.2,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 14,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 75,
+              "wind_speed": 4.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 17,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 72,
+              "wind_speed": 4.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 15,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 70,
+              "wind_speed": 3.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 12,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 75,
+              "wind_speed": 3.5,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 11,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 78,
+              "wind_speed": 3.3,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 14,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 75,
+              "wind_speed": 3.7,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 12,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 72,
+              "wind_speed": 3.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 10,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 78,
+              "wind_speed": 2.8,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 9,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 80,
+              "wind_speed": 2.6,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 12,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 78,
+              "wind_speed": 3.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 10,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 75,
+              "wind_speed": 2.3,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 8,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 80,
+              "wind_speed": 2.0,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 7,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 82,
+              "wind_speed": 1.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 10,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 80,
+              "wind_speed": 2.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 8,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 78,
+              "wind_speed": 1.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 6,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 82,
+              "wind_speed": 1.2,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 5,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 84,
+              "wind_speed": 1.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 8,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 82,
+              "wind_speed": 1.3,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 6,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 80,
+              "wind_speed": 0.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 4,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 84,
+              "wind_speed": 0.5,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 3,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 86,
+              "wind_speed": 0.3,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 6,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 84,
+              "wind_speed": 0.6,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 4,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 82,
+              "wind_speed": 0.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 2,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 86,
+              "wind_speed": 0.1,
+              "wind_direction": "NW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Aydın",
+      "country": "Turkey",
+      "latitude": 37.856,
+      "longitude": 27.8416,
+      "current": {
+        "temperature": 30,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 42,
+        "wind_speed": 6.8,
+        "wind_direction": "NE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 7.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 4.8,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 36,
+              "wind_speed": 5.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 32,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 28,
+              "wind_speed": 4.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 24,
+              "wind_speed": 3.5,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 18,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 26,
+              "wind_speed": 3.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 24,
+              "wind_speed": 2.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 20,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 22,
+              "wind_speed": 2.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 16,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 20,
+              "wind_speed": 2.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 14,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 18,
+              "wind_speed": 2.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 18,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 20,
+              "wind_speed": 2.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 16,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 22,
+              "wind_speed": 2.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 12,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 24,
+              "wind_speed": 3.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 10,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 26,
+              "wind_speed": 3.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 14,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 28,
+              "wind_speed": 4.0,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 12,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 30,
+              "wind_speed": 4.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 8,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 32,
+              "wind_speed": 5.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 6,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 5.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 10,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 5.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 8,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 5.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 4,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 6.0,
+              "wind_direction": "NE"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 2,
+              "description": "Snowy",
+              "icon": "cloud-snow",
+              "humidity": 42,
+              "wind_speed": 6.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 6,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 44,
+              "wind_speed": 6.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 4,
+              "description": "Snowy",
+              "icon": "cloud-snow",
+              "humidity": 46,
+              "wind_speed": 6.8,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Night",
+              "temperature": 0,
+              "description": "Snowy",
+              "icon": "cloud-snow",
+              "humidity": 48,
+              "wind_speed": 7.0,
+              "wind_direction": "NE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Balıkesir",
+      "country": "Turkey",
+      "latitude": 39.6484,
+      "longitude": 27.8826,
+      "current": {
+        "temperature": 28,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 50,
+        "wind_speed": 8.5,
+        "wind_direction": "NW"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 55,
+              "wind_speed": 9.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 8.7,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 6.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 5.8,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 52,
+              "wind_speed": 9.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 50,
+              "wind_speed": 8.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 6.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 42,
+              "wind_speed": 5.5,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 45,
+              "wind_speed": 7.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 26,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 6.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 24,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 6.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 19,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 38,
+              "wind_speed": 5.8,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 18,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 6.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 22,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 38,
+              "wind_speed": 6.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 20,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 36,
+              "wind_speed": 6.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 16,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 5.5,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 15,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 36,
+              "wind_speed": 6.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 18,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 5.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 16,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 32,
+              "wind_speed": 5.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 12,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 30,
+              "wind_speed": 4.8,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 10,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 32,
+              "wind_speed": 5.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 14,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 30,
+              "wind_speed": 5.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 12,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 28,
+              "wind_speed": 4.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 8,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 26,
+              "wind_speed": 4.5,
+              "wind_direction": "NW"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 7,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 28,
+              "wind_speed": 4.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 11,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 4.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 9,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 24,
+              "wind_speed": 4.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Night",
+              "temperature": 5,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 3.8,
+              "wind_direction": "NW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bartın",
+      "country": "Turkey",
+      "latitude": 41.635,
+      "longitude": 32.3378,
+      "current": {
+        "temperature": 22,
+        "description": "Partly cloudy",
+        "icon": "cloud-sun",
+        "humidity": 55,
+        "wind_speed": 9.0,
+        "wind_direction": "NE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 58,
+              "wind_speed": 8.5,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 56,
+              "wind_speed": 9.2,
+              "wind_direction": "NE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 52,
+              "wind_speed": 7.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 48,
+              "wind_speed": 6.8,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 17,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 52,
+              "wind_speed": 7.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 20,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 50,
+              "wind_speed": 7.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 18,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 48,
+              "wind_speed": 6.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 14,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 45,
+              "wind_speed": 5.8,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 13,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 45,
+              "wind_speed": 6.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 16,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 6.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 14,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 40,
+              "wind_speed": 5.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 10,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 38,
+              "wind_speed": 5.0,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 9,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 5.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 12,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 38,
+              "wind_speed": 5.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 10,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 5.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 7,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 34,
+              "wind_speed": 4.5,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 6,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 36,
+              "wind_speed": 4.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 9,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 5.0,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 7,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 32,
+              "wind_speed": 4.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 4,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 4.2,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 3,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 4.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 6,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 30,
+              "wind_speed": 4.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 4,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 28,
+              "wind_speed": 4.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": 1,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 26,
+              "wind_speed": 3.8,
+              "wind_direction": "N"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 0,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 28,
+              "wind_speed": 4.2,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 3,
+              "description": "Partly cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 4.5,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Evening",
+              "temperature": 1,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 24,
+              "wind_speed": 3.8,
+              "wind_direction": "N"
+            },
+            {
+              "time": "Night",
+              "temperature": -2,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 3.5,
+              "wind_direction": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Batman",
+      "country": "Turkey",
+      "latitude": 37.8812,
+      "longitude": 41.1351,
+      "current": {
+        "temperature": 30,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 48,
+        "wind_speed": 8.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 50,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 46,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 42,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 38,
+              "wind_speed": 6.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 48,
+              "wind_speed": 8.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 44,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 40,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 36,
+              "wind_speed": 6.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 8.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 42,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 38,
+              "wind_speed": 7.0,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 34,
+              "wind_speed": 6.3,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 8.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 8.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 7.3,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 6.7,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 9.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 37,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 8.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 7.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 30,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 28,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 29,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 23,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bayburt",
+      "country": "Turkey",
+      "latitude": 40.2556,
+      "longitude": 40.2249,
+      "current": {
+        "temperature": 22,
+        "description": "Partly Cloudy",
+        "icon": "cloud-sun",
+        "humidity": 52,
+        "wind_speed": 10.3,
+        "wind_direction": "NW"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 20,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 50,
+              "wind_speed": 9.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 24,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 9.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 44,
+              "wind_speed": 8.5,
+              "wind_direction": "W"
+            },
+            {
+              "time": "Night",
+              "temperature": 18,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 40,
+              "wind_speed": 8.0,
+              "wind_direction": "W"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 21,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 48,
+              "wind_speed": 10.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 46,
+              "wind_speed": 9.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 23,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 42,
+              "wind_speed": 9.2,
+              "wind_direction": "W"
+            },
+            {
+              "time": "Night",
+              "temperature": 19,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 38,
+              "wind_speed": 8.5,
+              "wind_direction": "W"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 46,
+              "wind_speed": 10.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 26,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 42,
+              "wind_speed": 9.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 24,
+              "description": "Thunderstorms",
+              "icon": "cloud-lightning",
+              "humidity": 38,
+              "wind_speed": 8.8,
+              "wind_direction": "W"
+            },
+            {
+              "time": "Night",
+              "temperature": 20,
+              "description": "Rainy",
+              "icon": "cloud-rain",
+              "humidity": 34,
+              "wind_speed": 8.2,
+              "wind_direction": "W"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 44,
+              "wind_speed": 10.8,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 10.0,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 9.3,
+              "wind_direction": "W"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 32,
+              "wind_speed": 8.7,
+              "wind_direction": "W"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 11.2,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 10.5,
+              "wind_direction": "NW"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 34,
+              "wind_speed": 9.8,
+              "wind_direction": "W"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Cloudy",
+              "icon": "cloud",
+              "humidity": 30,
+              "wind_speed": 9.2,
+              "wind_direction": "W"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 28,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 29,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 17,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 20,
+              "wind_speed": 8.2,
+              "wind_direction": "SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bilecik",
+      "country": "Turkey",
+      "latitude": 40.1422,
+      "longitude": 29.9792,
+      "current": {
+        "temperature": 25,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 45,
+        "wind_speed": 7.8,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 43,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 37,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 6.6,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 39,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 33,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 37,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 31,
+              "wind_speed": 6.6,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 32,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 29,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 33,
+              "wind_speed": 7.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 30,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 27,
+              "wind_speed": 6.6,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 28,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 7.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 29,
+              "wind_speed": 7.5,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 7.2,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 23,
+              "wind_speed": 6.9,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bingöl",
+      "country": "Turkey",
+      "latitude": 38.8847,
+      "longitude": 40.4939,
+      "current": {
+        "temperature": 27,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 42,
+        "wind_speed": 5.5,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 5.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 37,
+              "wind_speed": 4.9,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 4.6,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 31,
+              "wind_speed": 4.3,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 39,
+              "wind_speed": 5.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 4.9,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 33,
+              "wind_speed": 4.6,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 30,
+              "wind_speed": 4.3,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 37,
+              "wind_speed": 4.9,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 4.6,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 31,
+              "wind_speed": 4.3,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 28,
+              "wind_speed": 4.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 4.6,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 4.3,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 29,
+              "wind_speed": 4.0,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 26,
+              "wind_speed": 3.7,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 33,
+              "wind_speed": 4.3,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 30,
+              "wind_speed": 4.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 27,
+              "wind_speed": 3.7,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 24,
+              "wind_speed": 3.4,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 4.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 28,
+              "wind_speed": 3.7,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 25,
+              "wind_speed": 3.4,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 3.1,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 30,
+              "wind_speed": 3.7,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 27,
+              "wind_speed": 3.4,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 24,
+              "wind_speed": 3.1,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 21,
+              "wind_speed": 2.8,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bitlis",
+      "country": "Turkey",
+      "latitude": 38.4009,
+      "longitude": 42.1167,
+      "current": {
+        "temperature": 23,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 45,
+        "wind_speed": 6.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 21,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 43,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 40,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 37,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 19,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 34,
+              "wind_speed": 5.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 22,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 42,
+              "wind_speed": 6.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 39,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 36,
+              "wind_speed": 5.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 20,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 33,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 23,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 37,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 26,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 21,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 31,
+              "wind_speed": 5.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 24,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 6.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 27,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 32,
+              "wind_speed": 5.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 22,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 29,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 33,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 30,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 27,
+              "wind_speed": 5.2,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 6.2,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 28,
+              "wind_speed": 5.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 29,
+              "wind_speed": 5.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 5.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 23,
+              "wind_speed": 5.2,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bolu",
+      "country": "Turkey",
+      "latitude": 40.7395,
+      "longitude": 31.6111,
+      "current": {
+        "temperature": 27,
+        "description": "Sunny",
+        "icon": "sun",
+        "humidity": 42,
+        "wind_speed": 7.2,
+        "wind_direction": "SE"
+      },
+      "forecast": [
+        {
+          "day": "Monday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 25,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 40,
+              "wind_speed": 6.9,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 37,
+              "wind_speed": 6.6,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 28,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 34,
+              "wind_speed": 6.3,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 23,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 31,
+              "wind_speed": 6.0,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 26,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 38,
+              "wind_speed": 6.6,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 35,
+              "wind_speed": 6.3,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 29,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 32,
+              "wind_speed": 6.0,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 24,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 29,
+              "wind_speed": 5.7,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 27,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 36,
+              "wind_speed": 6.3,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 32,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 33,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 30,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 30,
+              "wind_speed": 5.7,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 25,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 27,
+              "wind_speed": 5.4,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 28,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 34,
+              "wind_speed": 6.0,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 33,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 5.7,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 31,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 28,
+              "wind_speed": 5.4,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 26,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 25,
+              "wind_speed": 5.1,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 29,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 32,
+              "wind_speed": 5.7,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 34,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 29,
+              "wind_speed": 5.4,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 32,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 26,
+              "wind_speed": 5.1,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 27,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 23,
+              "wind_speed": 4.8,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 30,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 31,
+              "wind_speed": 5.4,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 35,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 28,
+              "wind_speed": 5.1,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 33,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 25,
+              "wind_speed": 4.8,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 28,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 22,
+              "wind_speed": 4.5,
+              "wind_direction": "E"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "times": [
+            {
+              "time": "Morning",
+              "temperature": 31,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 30,
+              "wind_speed": 5.1,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Afternoon",
+              "temperature": 36,
+              "description": "Sunny",
+              "icon": "sun",
+              "humidity": 27,
+              "wind_speed": 4.8,
+              "wind_direction": "SE"
+            },
+            {
+              "time": "Evening",
+              "temperature": 34,
+              "description": "Partly Cloudy",
+              "icon": "cloud-sun",
+              "humidity": 24,
+              "wind_speed": 4.5,
+              "wind_direction": "E"
+            },
+            {
+              "time": "Night",
+              "temperature": 29,
+              "description": "Clear sky",
+              "icon": "moon",
+              "humidity": 21,
+              "wind_speed": 4.2,
+              "wind_direction": "E"
+            }
+          ]
+        }
+      ]
+    }
+        
+]
