@@ -5,4 +5,7 @@ module.exports = {
         appDir: true,
         serverComponentsExternalPackages: ['mongoose'],
     },
+/*     sassOptions: {
+        includePaths: [path.join(__dirname, 'styles')],
+      }, */
 };

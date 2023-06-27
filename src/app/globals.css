@@ -2,26 +2,185 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  margin: 0;
+}
+
+.homePage {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  margin: 0;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 1rem 2rem 1rem 2rem;
+  background-color: rgb(45, 42, 84);
+  color: white;
+}
+
+.leftHeader {
+  display: flex;
+  flex-direction: column;
+}
+
+.leftCity {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.leftDay {
+  color: lightgray;
+}
+
+.leftWeather {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.leftWeatherText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.leftCentigrade {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0rem 0 2rem 0;
+}
+
+.slider {
+  margin: 5rem 0 5rem 0;
+}
+
+.leftFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 2rem; */
+  color: rgb(168, 171, 222);
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 1rem 6rem 1rem 6rem;
+  background-color: rgb(215, 216, 240);
+  color: rgb(45, 42, 84);
+}
+
+.rightInput {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.rightInputText {
+  border-radius: 1rem;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.rightWeek {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.rightTitleContainer {
+  width: 12rem;
+  border-bottom: 2px solid rgb(45, 42, 84);
+  display: flex;
+  padding-bottom: 0.25rem;
+  justify-content: flex-start;
+}
+
+.rightCardsTitle {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.rightDaysContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 2rem 0 2rem 0;
+}
+
+.rightDaysCard {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  border: 1px solid rgb(45, 42, 84);
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 8rem;
+}
+
+.daysCardText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0 1rem 0;
+  color: rgb(45, 42, 84);
+}
+
+.rightHighlightContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.rightHighlightCard {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(45, 42, 84);
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 12rem;
+}
+
+.highlightCardText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0 1rem 0;
+  color: rgb(45, 42, 84);
+}
+
+.rightCities {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.rightCitiesContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.rightCitiesCard {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(45, 42, 84);
+  border-radius: 1rem;
+  width: 12rem;
+}
+
+.citiesCardText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0 1rem 0;
+  color: rgb(45, 42, 84);
 }
