@@ -137,6 +137,24 @@ body {
   margin: 2rem 0 2rem 0;
 }
 
+.rightDaysButtons {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.rightDaysButtons button {
+  padding: 8px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.rightDaysButtons button.active {
+  background-color: #ccc;
+}
+
 .rightDaysCard {
   display: flex;
   flex-direction: column;
@@ -156,29 +174,6 @@ body {
   color: rgb(45, 42, 84);
 }
 
-.rightHighlightContainer {
-  display: flex;
-  flex-direction: column;
-  margin-top: 2rem;
-}
-
-.rightHighlightCard {
-  display: flex;
-  flex-direction: column;
-  border: 1px solid rgb(45, 42, 84);
-  border-radius: 1rem;
-  padding: 1rem;
-  width: 12rem;
-}
-
-.highlightCardText {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 1rem 0 1rem 0;
-  color: rgb(45, 42, 84);
-}
-
 .rightCities {
   display: flex;
   flex-direction: column;
@@ -187,8 +182,10 @@ body {
 
 .rightCitiesContainer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
   margin-top: 2rem;
+  
 }
 
 .rightCitiesCard {
