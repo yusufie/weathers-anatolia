@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 
 export default function Home() {
-  const [selectedCity, setSelectedCity] = useState("Adana");
+  const [selectedCity, setSelectedCity] = useState("");
   const [selectedDay, setSelectedDay] = useState("Monday");
   const [temperature, setTemperature] = useState("");
   const [humidity, setHumidity] = useState("");
@@ -11,7 +11,7 @@ export default function Home() {
   const [windSpeed, setWindSpeed] = useState("");
   const [windDirection, setWindDirection] = useState("");
 
-  const [data, setData] = useState([]);
+  const [data, setData] = useState<Array<any>>([]);
   const [query, setQuery] = useState("");
 
   useEffect(() => {
@@ -19,6 +19,33 @@ export default function Home() {
       .then((res) => res.json())
       .then((data) => setData(data));
   }, []);
+
+  useEffect(() => {
+    const getRandomCityWeather = () => {
+      if (data.length > 0 && !selectedCity) {
+        const randomCityIndex = Math.floor(Math.random() * data.length);
+        const randomCityData = data[randomCityIndex];
+        if (randomCityData) {
+          const {
+            temperature,
+            humidity,
+            description,
+            wind_speed,
+            wind_direction,
+          } = randomCityData.current;
+          setSelectedCity(randomCityData.city);
+          setTemperature(temperature);
+          setHumidity(humidity);
+          setDescription(description);
+          setWindSpeed(wind_speed);
+          setWindDirection(wind_direction);
+        }
+      }
+    };
+  
+    getRandomCityWeather();
+  }, [data, selectedCity]);
+
 
   const onChange = (e) => {
     const { value } = e.target;
@@ -71,7 +98,7 @@ export default function Home() {
         <div className="leftWeather">
           <div className="leftImageContainer">
             <Image
-              src="/thunderstorm.png"
+              src="/thunderstorm.svg"
               alt="thunderstorm"
               width={360}
               height={360}
@@ -156,7 +183,7 @@ export default function Home() {
                       {selectedDayData.times.map((timeData) => (
                         <div key={timeData.time} className="rightDaysCard">
                           <Image
-                            src="/thunderstorm.png"
+                            src="/thunderstorm.svg"
                             alt=""
                             width={64}
                             height={64}
