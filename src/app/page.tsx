@@ -1,10 +1,38 @@
+"use client";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
+
 export default function Home() {
+
+  const [selectedCity, setSelectedCity] = useState("Adana");
+  const [data, setData] = useState([]);
+  const [query, setQuery] = useState("");
+
+  useEffect(() => {
+    fetch("/api")
+      .then((res) => res.json())
+      .then((data) => setData(data));
+  }, []);
+
+  const onChange = (e) => {
+    const { value } = e.target;
+    setQuery(value);
+  }
+
+  const filteredData = query
+  ? data.filter((item) => item.city.toLowerCase().includes(query.toLowerCase()))
+  : [];
+
+  const onCityClick = (city) => {
+    setSelectedCity(city);
+  };
+  
+
   return (
     <div className="homePage">
       <div className="left">
         <div className="leftHeader">
-          <p className="leftCity">Trabzon</p>
+        <p className="leftCity">{selectedCity}</p>
           <p className="leftDay">Pazartesi</p>
         </div>
 
@@ -47,13 +75,23 @@ export default function Home() {
 
       <div className="right">
 
-        <div className="rightInput">
-          <input
-            type="search"
-            placeholder="Search for places"
-            className="rightInputText"
-          />
-        </div>
+      <div className="rightInput">
+        <input
+          type="search"
+          placeholder="Search for places"
+          className="rightInputText"
+          onChange={onChange}
+          value={query}
+        />
+        <ul className={`cityList ${query ? 'show' : ''}`}>
+          {filteredData.map((item) => (
+            <li key={item.id} onClick={() => onCityClick(item.city)}>
+              {item.city}, {item.country}
+            </li>
+          ))}
+        </ul>
+      </div>
+
 
         <div className="rightWeek">
             <div className="rightTitleContainer">

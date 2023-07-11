@@ -79,8 +79,30 @@ body {
 }
 
 .rightInput {
-  margin-top: 2rem;
-  width: 100%;
+  position: relative;
+  /* margin-top: 2rem;
+  width: 100%; */
+}
+
+.cityList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+.cityList.show {
+  opacity: 1;
+  pointer-events: auto;
 }
 
 .rightInputText {

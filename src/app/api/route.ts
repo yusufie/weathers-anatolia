@@ -4,7 +4,5 @@ import connectDB from '../utils/connectDB';
 export async function GET() {
   const data = await connectDB();
 
-  return NextResponse.json({
-    data: data,
-  });
+  return NextResponse.json(data);
 }
