@@ -98,7 +98,7 @@ export default function Home() {
         <div className="leftWeather">
           <div className="leftImageContainer">
             <Image
-              src="/thunderstorm.svg"
+              src="/icons/thunderstorm.svg"
               alt="thunderstorm"
               width={360}
               height={360}
@@ -131,7 +131,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="right">
+      <div className="right" style={{ backgroundImage: `url(/images/${selectedCity}.jpg)` }}>
         <div className="rightInput">
           <input
             type="search"
@@ -182,12 +182,7 @@ export default function Home() {
                     <React.Fragment key={selectedDayData.day}>
                       {selectedDayData.times.map((timeData) => (
                         <div key={timeData.time} className="rightDaysCard">
-                          <Image
-                            src="/thunderstorm.svg"
-                            alt=""
-                            width={64}
-                            height={64}
-                          />
+                          <Image src={`/icons/${timeData.icon}.svg`} alt="" width={64} height={64} />
                           <div className="daysCardText">
                             <p className="rightDaysCardTitle">
                               {timeData.time}
@@ -214,10 +209,14 @@ export default function Home() {
 
           <div className="rightCitiesContainer">
             {getRandomCities(4).map((cityData) => (
-              <div key={cityData.city} className="rightCitiesCard">
-                {/* <Image src={`/icons/${cityData.current.icon}.png`} alt="" width={64} height={64} /> */}
+              <div key={cityData.city} className="rightCitiesCard"
+              style={{
+                backgroundImage: `url(/images/${cityData.image}.jpg)`,
+              }}
+              >
+                <Image src={`/icons/${cityData.current.icon}.svg`} alt="" width={64} height={64} />
                 <div className="citiesCardText">
-                  <p className="rightCitiesCardTitle">{cityData.city}</p>
+                  <p className="rightCitiesCardTitle">{cityData.city}</p>  
                   <p className="rightCitiesCardCentigrade">
                     {cityData.current.temperature}°
                   </p>

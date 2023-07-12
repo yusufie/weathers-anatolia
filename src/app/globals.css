@@ -74,8 +74,12 @@ body {
   flex-direction: column;
   height: 100vh;
   padding: 1rem 6rem 1rem 6rem;
-  background-color: rgb(215, 216, 240);
+  /* background-color: rgb(215, 216, 240); */
   color: rgb(45, 42, 84);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .rightInput {
@@ -194,6 +198,8 @@ body {
   border: 1px solid rgb(45, 42, 84);
   border-radius: 1rem;
   width: 12rem;
+  background-size: cover;
+  background-position: center;
 }
 
 .citiesCardText {
