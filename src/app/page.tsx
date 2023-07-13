@@ -88,7 +88,7 @@ export default function Home() {
   };
 
   return (
-    <div className="homePage">
+    <div className="homePage" style={{ backgroundImage: `url(/images/${selectedCity}.jpg)` }}>
       <div className="left">
         <div className="leftHeader">
           <p className="leftCity">{selectedCity}</p>
@@ -126,16 +126,13 @@ export default function Home() {
 
         </div>
 
-        <div className="leftFooter">
-          <p>Weather Logo</p>
-        </div>
       </div>
 
-      <div className="right" style={{ backgroundImage: `url(/images/${selectedCity}.jpg)` }}>
+      <div className="right">
         <div className="rightInput">
           <input
             type="search"
-            placeholder="Search for places"
+            placeholder="Search for places..."
             className="rightInputText"
             onChange={onChange}
             value={query}
