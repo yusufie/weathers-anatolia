@@ -4,6 +4,8 @@
 
 body {
   margin: 0;
+  padding: 0;
+  background-color: black;
 }
 
 .homePage {
@@ -44,7 +46,7 @@ backdrop-filter: blur(5px) saturate(150%);
 }
 
 .leftDay {
-  color: lightgray;
+  color: #ff4444;
 }
 
 .leftWeather {
@@ -212,7 +214,7 @@ backdrop-filter: blur(5px) saturate(150%);
   flex-direction: row;
   justify-content: space-between;
   margin-top: 2rem;
-  
+  cursor: pointer;
 }
 
 .rightCitiesCard {

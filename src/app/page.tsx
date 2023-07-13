@@ -8,6 +8,7 @@ export default function Home() {
   const [temperature, setTemperature] = useState("");
   const [humidity, setHumidity] = useState("");
   const [description, setDescription] = useState("");
+  const [icon, setIcon] = useState("");
   const [windSpeed, setWindSpeed] = useState("");
   const [windDirection, setWindDirection] = useState("");
 
@@ -30,6 +31,7 @@ export default function Home() {
             temperature,
             humidity,
             description,
+            icon,
             wind_speed,
             wind_direction,
           } = randomCityData.current;
@@ -37,6 +39,7 @@ export default function Home() {
           setTemperature(temperature);
           setHumidity(humidity);
           setDescription(description);
+          setIcon(icon);
           setWindSpeed(wind_speed);
           setWindDirection(wind_direction);
         }
@@ -62,13 +65,16 @@ export default function Home() {
     const selectedCityData = data.find((item) => item.city === city);
     if (selectedCityData) {
       setSelectedCity(city);
-      const { temperature, humidity, description, wind_speed, wind_direction } = selectedCityData.current;
+      const { temperature, humidity, description, icon, wind_speed, wind_direction } = selectedCityData.current;
       // Update the state variables for temperature, humidity, and description
       setTemperature(temperature);
       setHumidity(humidity);
       setDescription(description);
+      setIcon(icon);
       setWindSpeed(wind_speed);
       setWindDirection(wind_direction);
+
+      setQuery("");
     }
   };
 
@@ -97,12 +103,8 @@ export default function Home() {
 
         <div className="leftWeather">
           <div className="leftImageContainer">
-            <Image
-              src="/icons/thunderstorm.svg"
-              alt="thunderstorm"
-              width={360}
-              height={360}
-              className="leftWeatherImage"
+            <Image src={`/icons/${icon}.svg`} alt={`${icon}`}
+              width={320} height={320} className="leftWeatherImage"
             />
           </div>
 
@@ -207,9 +209,8 @@ export default function Home() {
           <div className="rightCitiesContainer">
             {getRandomCities(4).map((cityData) => (
               <div key={cityData.city} className="rightCitiesCard"
-              style={{
-                backgroundImage: `url(/images/${cityData.image}.jpg)`,
-              }}
+              style={{ backgroundImage: `url(/images/${cityData.image}.jpg)`, }}
+              onClick={() => onCityClick(cityData.city)}
               >
                 <Image src={`/icons/${cityData.current.icon}.svg`} alt="" width={64} height={64} />
                 <div className="citiesCardText">
