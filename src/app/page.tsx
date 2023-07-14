@@ -1,19 +1,21 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, ChangeEvent } from "react";
 import Image from "next/image";
+import WeatherData from "./types/WeatherData";
 
-export default function Home() {
-  const [selectedCity, setSelectedCity] = useState("");
-  const [selectedDay, setSelectedDay] = useState("Monday");
-  const [temperature, setTemperature] = useState("");
-  const [humidity, setHumidity] = useState("");
-  const [description, setDescription] = useState("");
-  const [icon, setIcon] = useState("");
-  const [windSpeed, setWindSpeed] = useState("");
-  const [windDirection, setWindDirection] = useState("");
 
-  const [data, setData] = useState<Array<any>>([]);
-  const [query, setQuery] = useState("");
+export default function Home(): JSX.Element {
+  const [selectedCity, setSelectedCity] = useState<string>("");
+  const [selectedDay, setSelectedDay] = useState<string>("Monday");
+  const [temperature, setTemperature] = useState<string>("");
+  const [humidity, setHumidity] = useState<string>("");
+  const [description, setDescription] = useState<string>("");
+  const [icon, setIcon] = useState<string>("");
+  const [windSpeed, setWindSpeed] = useState<string>("");
+  const [windDirection, setWindDirection] = useState<string>("");
+
+  const [data, setData] = useState<WeatherData[]>([]);
+  const [query, setQuery] = useState<string>("");
 
   useEffect(() => {
     fetch("/api")
@@ -22,7 +24,7 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
-    const getRandomCityWeather = () => {
+    const getRandomCityWeather = (): void => {
       if (data.length > 0 && !selectedCity) {
         const randomCityIndex = Math.floor(Math.random() * data.length);
         const randomCityData = data[randomCityIndex];
@@ -50,7 +52,7 @@ export default function Home() {
   }, [data, selectedCity]);
 
 
-  const onChange = (e) => {
+  const onChange = (e: ChangeEvent<HTMLInputElement>): void => {
     const { value } = e.target;
     setQuery(value);
   };
@@ -61,7 +63,7 @@ export default function Home() {
       )
     : [];
 
-  const onCityClick = (city) => {
+  const onCityClick = (city:string) => {
     const selectedCityData = data.find((item) => item.city === city);
     if (selectedCityData) {
       setSelectedCity(city);
@@ -78,7 +80,7 @@ export default function Home() {
     }
   };
 
-  const getRandomCities = (count) => {
+  const getRandomCities = (count: number) => {
     const cities = [];
     const dataCopy = [...data];
     while (cities.length < count && dataCopy.length > 0) {
@@ -89,7 +91,7 @@ export default function Home() {
     return cities;
   };
 
-  const onDayClick = (day) => {
+  const onDayClick = (day: string): void => {
     setSelectedDay(day);
   };
 
@@ -156,7 +158,7 @@ export default function Home() {
           <div className="rightDaysButtons">
             {data.map((cityData) => {
               if (cityData.city === selectedCity) {
-                return cityData.forecast.map((dayData) => (
+                return cityData.forecast.map((dayData: any) => (
                   <button
                     key={dayData.day}
                     onClick={() => onDayClick(dayData.day)}
@@ -174,12 +176,12 @@ export default function Home() {
             {data.map((cityData) => {
               if (cityData.city === selectedCity) {
                 const selectedDayData = cityData.forecast.find(
-                  (item) => item.day === selectedDay
+                  (item: any) => item.day === selectedDay
                 );
                 if (selectedDayData) {
                   return (
                     <React.Fragment key={selectedDayData.day}>
-                      {selectedDayData.times.map((timeData) => (
+                      {selectedDayData.times.map((timeData: any) => (
                         <div key={timeData.time} className="rightDaysCard">
                           <Image src={`/icons/${timeData.icon}.svg`} alt="" width={64} height={64} />
                           <div className="daysCardText">
