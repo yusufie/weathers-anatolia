@@ -96,7 +96,7 @@ export default function Home(): JSX.Element {
   };
 
   return (
-    <div className="homePage" style={{ backgroundImage: selectedCity ? `url(/images/${selectedCity}.jpg)` : "" }}>
+    <div className="homePage" style={{ backgroundImage: selectedCity ? `url(/images/${selectedCity.toLowerCase()}.jpg)` : "" }}>
       <div className="left">
         <div className="leftHeader">
           <p className="leftCity">{selectedCity}</p>
