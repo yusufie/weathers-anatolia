@@ -1,34 +1,108 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weathers Anatolia Full-Stack Web App
 
-## Getting Started
+Weathers Anatolia is a web application that provides weather information for cities in Anatolia, Turkey. 
+## Live Demo
+The application is deployed on Vercel and can be accessed at [https://weathers-anatolia.vercel.app/](https://weathers-anatolia.vercel.app/)
 
-First, run the development server:
+![Weathers Anatolia](/public/images/readme.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To run the Weathers Anatolia web app locally, follow these steps:
 
-## Learn More
+1. Clone the repository:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   git clone https://github.com/yusufie/weathers-anatolia.git
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Navigate to the project directory:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   cd weathers-anatolia
+   ```
 
-## Deploy on Vercel
+3. Install the dependencies:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+    npm install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. Create a `.env.local` file in the root directory and add the following environment variables:
+
+    ```bash
+    MONGODB_URI=<your mongodb uri>
+    ```
+
+5. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Database
+The application uses MongoDB to store city and weather data. Make sure you have MongoDB installed and running locally or provide a remote MongoDB connection URI in the configuration.
+
+## Usage
+
+### Search for a city
+
+1. Enter a city name in the search input field.
+2. Select a city from the list of suggestions.
+3. The current weather information will be displayed, including temperature, description, icon, humidity, wind speed, and wind direction.
+4. Click on a day from the 7-day forecast to view the detailed weather information for that day and different time periods (morning, afternoon, evening, and night).
+
+### View a random city
+
+1. Click on a city from the random cities image container.
+2. The current weather information will be displayed, including temperature, description, icon, humidity, wind speed, and wind direction.
+3. Click on a day from the 7-day forecast to view the detailed weather information for that day and different time periods (morning, afternoon, evening, and night).
+
+## Features
+
+- Get current weather information for cities in Anatolia, including temperature, description, icon, humidity, wind speed, and wind direction.
+- View a 7-day forecast for selected cities, with detailed weather information for each day and time period.
+- Search for cities by name and select them from a list of suggestions.
+- Click on a city from the random cities image container to view its weather information.
+
+## Technologies
+
+- Next.js
+- React
+- TypeScript
+- MongoDB
+- Mongoose
+- Module CSS
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit those changes.
+4. Push your code to your forked repository.
+5. Submit a pull request describing the changes you made.
+
+Please make sure to follow the existing code style and conventions.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Feel free to explore the codebase and make it your own! If you have any questions, reach out to the project maintainers or create an issue on GitHub.
+
+We hope you find Weathers Anatolia useful for checking the weather in Anatolia! Enjoy the application and stay informed about the weather conditions in your favorite cities.
+
+Feel free to modify the content according to your specific project details, and customize the sections as per your requirements.
