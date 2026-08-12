@@ -1,3 +1,5 @@
+
+
 # Weathers Anatolia Full-Stack Web App
 
 Weathers Anatolia is a web application that provides weather information for cities in Anatolia, Turkey. 
@@ -83,7 +85,7 @@ The application uses MongoDB to store city and weather data. Make sure you have 
 - TypeScript
 - MongoDB
 - Mongoose
-- Module CSS
+- Tailwind CSS
 
 ## Contributing
 
